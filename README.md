@@ -11,3 +11,4 @@ title: String variable, Title
 timeStamp: String variable, YYYY-MM-DD HH:MM:SS
 twp: String variable, Township
 addr: String variable, Address
+Through out the project I will be creating new features and new columns and then creating plots on the newly created columns. 
